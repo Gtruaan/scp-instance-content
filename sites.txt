@@ -1,0 +1,51 @@
+=== BEGIN FILE sites.txt ===
+Complete records of all Sites of interest and their locations.
+
+Note: Visibility of this document is restricted to personnel with Level 3 clearance or higher. Unauthorized access is grounds for immediate termination. Some information may be unavailable to personnel depending on their clearance level. Contact your Site Director for more information.
+
+=== STANDARD SITES ===
+--------------------------------
+Name: Site-17
+Location: [REDACTED], USA
+Site function: Research and containment of memetic and cognitohazardous anomalies.
+Site Director: Dr. ████████ █████████
+Contact-ID: 1000-17-20
+Notes:
+    <None>
+--------------------------------
+Name: Site-19
+Location: [REDACTED], Russia
+Site function: Research and containment of memetic and cognitohazardous anomalies.
+Site Director: Dr. █████ ████████████
+Contact-ID: 1000-19-20
+Notes:
+    Notable for its containment of SCP-055 and other antimemetic anomalies.
+--------------------------------
+Name: Site-43
+Location: [REDACTED], Australia
+Site function: Research and containment of memetic and cognitohazardous anomalies.
+Site Director: Dr. ██ ██████
+Contact-ID: 1000-43-20
+Notes:
+    <None>
+--------------------------------
+
+=== SPECIAL SITES ===
+--------------------------------
+Name: Site-110-C
+Location: Santa Rita 800, La Reina, Santiago, Chile
+Site function: Main center and office for the studies of Agent Yuri Polov.
+Site Director: Agent Yuri Polov
+Contact-ID: 1000-110-23
+Notes:
+    My comfy little office. Knock before entering and identify yourself with your Contact-ID.
+--------------------------------
+Name: Site-110-D
+Location: Variante Agua Sta 4222, Vina del Mar, Valparaíso, Chile
+Site function: Military base and research facility for the study of SCP-███.
+Site Director: Agent Markov
+Contact-ID: 1000-110-24
+Notes:
+    Contact in case of emergency.
+--------------------------------
+=== END FILE sites.txt ===

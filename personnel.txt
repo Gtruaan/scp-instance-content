@@ -1,0 +1,57 @@
+=== BEGIN FILE personnel.txt ===
+Contacts of Personnel of interest
+Investigation ID: 0f488e14d6
+Object of Interest: SCP-███
+Tags: memetic, cognitohazard
+--------------------------------
+Title: Professor
+Clearance: 5
+Name: Anders Bjornsen
+Contact-ID: 5871-54-23
+Location: Other facilities
+Description:
+    Field researcher specializing in anomalous psychologies and societal abnormalities, working as an SCP Analyst for the Psychology Department. Previously assigned to the Memetics Department, Theology & Theometrics Department, and Cognitohazard Research Department.
+Note:
+    Has volumes 1 through 5 of the "Memetic Codex" series. Do not ask for them.
+--------------------------------
+Title: Agent
+Clearance: 3
+Name: Yuri Polov
+Contact-ID: 3299-83-10
+Location: Site-110-C
+Description:
+    Field agent tasked with investigating memetic and cognitohazard containment. Known for his quick thinking and resourcefulness in high-pressure situations. Has a history of successful containment missions. Currently tasked with undercover research of SCP-███ in Site-110-C, Chile.
+Note:
+    This is me.
+--------------------------------
+Title: Researcher
+Clearance: 4
+Name: Samuel M. Lloyd
+Contact-ID: 4577-54-29
+Location: Site-17
+Description:
+    English memeticist and part-time Hazardous Materials Containment Liaison Supervisor who shows up all over the place.
+Note:
+    Call in case of memetic emergency, specially if it involves SCP-███.
+--------------------------------
+Title: Memeticist
+Clearance: 5
+Name: Lillian S. Lillihammer
+Contact-ID: 5877-22-12
+Location: Site-43
+Description:
+    Master memeticist of Site-43: discoverer, interpreter, neutralizer and creator. Always half a dozen steps ahead of everyone else. Lead researcher on Vikander-Kneed Technical Media.
+Note:
+    Do not disturb unless absolutely necessary. She's busy.
+--------------------------------
+Title: Researcher
+Clearance: 2
+Name: Johannes Sorts
+Contact-ID: 2255-24-75
+Location: Site-17
+Description:
+    Memetic specialist and field researcher, with a doctorate in art history. Multiple disciplinary reports due to poor choice of action under pressure, including the shooting of a guard while under influence of [REDACTED]. Currently under psychiatric evaluation and restricted to safer projects.
+Note:
+    Do not allow access to firearms or unsafely contained memetic SCPs.
+--------------------------------
+=== END FILE personnel.txt ===
